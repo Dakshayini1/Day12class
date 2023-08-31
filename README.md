@@ -18,7 +18,7 @@ NotesWall has the following features:
 
 * Create notes: Users can create notes by typing text into the input field and clicking the "Add note" button.
 * Save notes: Notes are automatically saved to the browser's local storage.
-* Delete notes: Users can delete notes by clicking the "X" button on the note.
+* Delete notes: Users can delete notes by clicking the "del" button on the note.
 * Change note color: Users can change the color of a note by clicking on the color picker and selecting a new color.
 
 ## Code Explanation
